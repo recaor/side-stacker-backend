@@ -26,6 +26,3 @@ jobs:
 
             - name: Prettier Check
               run: npm run format
-
-            - name: Build Workspace
-              run: npm run build
